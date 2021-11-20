@@ -1,0 +1,55 @@
+2021-11-20 13:22:51,851 INFO TestCase 1 
+2021-11-20 13:22:51,851 INFO Browser has been invoked 
+2021-11-20 13:23:04,902 INFO Landed on Website home page 
+2021-11-20 13:23:05,143 INFO Entered coffee mugs iin search bar 
+2021-11-20 13:23:09,743 INFO clicked on enter 
+2021-11-20 13:23:12,953 INFO Clicked on the coffee mug item 
+2021-11-20 13:23:13,150 INFO Added Coffee mug to the cart 
+2021-11-20 13:23:18,883 INFO Browser has been invoked 
+2021-11-20 13:23:24,221 INFO landed on HomePage 
+2021-11-20 13:23:26,977 INFO Clicked on Corporate Gift 
+2021-11-20 13:23:27,446 INFO Entered the name 
+2021-11-20 13:23:27,540 INFO Entered the Email 
+2021-11-20 13:23:27,686 INFO Entered the number 
+2021-11-20 13:23:27,799 INFO Entered the enquiry text 
+2021-11-20 13:23:28,476 INFO Clicked on subit button 
+2021-11-20 13:23:32,384 INFO Browser has been invoked 
+2021-11-20 13:23:40,993 INFO landed on HomePage 
+2021-11-20 13:23:40,995 INFO Hovered on Gifts dropdown 
+2021-11-20 13:23:41,380 INFO hovered on Birthday gifts and clicked on it 
+2021-11-20 13:23:50,671 INFO Browser has been invoked 
+2021-11-20 13:23:56,701 INFO landed on HomePage 
+2021-11-20 13:23:59,007 INFO clicked on Christmas gifts 
+2021-11-20 13:24:03,111 INFO Selected the required item 
+2021-11-20 13:24:03,308 INFO Added the Item to the cart 
+2021-11-20 13:24:08,485 INFO Added a gift note to it 
+2021-11-20 13:24:11,002 INFO Browser has been invoked 
+2021-11-20 13:24:19,566 INFO landed on HomePage 
+2021-11-20 13:24:22,005 INFO clicked on Top 50 Category 
+2021-11-20 13:24:24,862 INFO Selected the Item 
+2021-11-20 13:24:25,053 INFO Entered the pincode 
+2021-11-20 13:24:25,204 INFO Clicked on check 
+2021-11-20 13:24:31,660 INFO Browser has been invoked 
+2021-11-20 13:24:40,193 INFO landed on HomePage 
+2021-11-20 13:24:40,527 INFO Hovered on Birthday gifts 
+2021-11-20 13:24:43,383 INFO Hovered on 18th birthday gifts and clicked on it 
+2021-11-20 13:24:48,870 INFO Browser has been invoked 
+2021-11-20 13:24:55,987 INFO landed on HomePage 
+2021-11-20 13:24:58,865 INFO New Category 
+2021-11-20 13:25:02,918 INFO Clicked on the item 
+2021-11-20 13:25:03,043 INFO increased the quantity to 2 
+2021-11-20 13:25:10,453 INFO Browser has been invoked 
+2021-11-20 13:25:18,210 INFO landed on HomePage 
+2021-11-20 13:25:21,113 INFO clicked on gift card 
+2021-11-20 13:25:21,373 INFO selected the amount 
+2021-11-20 13:25:21,493 INFO added the gift card to the cart 
+2021-11-20 13:25:23,139 INFO Browser has been invoked 
+2021-11-20 13:25:28,939 INFO landed on HomePage 
+2021-11-20 13:25:28,941 INFO landed on All of It page 
+2021-11-20 13:25:42,179 INFO Selected the item 
+2021-11-20 13:25:42,569 INFO added to wish list 
+2021-11-20 13:25:49,310 INFO Browser has been invoked 
+2021-11-20 13:25:55,264 INFO landed on HomePage 
+2021-11-20 13:25:58,136 INFO Clicked on the Shipping & deliver Policy link 
+2021-11-20 13:25:58,236 INFO Got the heading 
+2021-11-20 13:25:58,239 INFO Heading checking done 
