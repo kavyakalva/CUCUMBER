@@ -1,0 +1,15 @@
+2021-11-20 01:14:34,025 INFO TestCase 1 
+2021-11-20 01:14:34,063 INFO Browser has been invoked 
+2021-11-20 01:14:39,349 INFO Landed on Website home page 
+2021-11-20 01:14:39,789 INFO Entered coffee mugs iin search bar 
+2021-11-20 01:14:41,842 INFO clicked on enter 
+2021-11-20 01:14:43,858 INFO Clicked on the coffee mug item 
+2021-11-20 01:14:44,093 INFO Added Coffee mug to the cart 
+2021-11-20 01:14:49,227 INFO Browser has been invoked 
+2021-11-20 01:14:55,228 INFO landed on HomePage 
+2021-11-20 01:14:57,653 INFO Clicked on Corporate Gift 
+2021-11-20 01:14:59,106 INFO Browser has been invoked 
+2021-11-20 01:15:05,571 INFO landed on HomePage 
+2021-11-20 01:15:05,573 INFO Hovered on Gifts dropdown 
+2021-11-20 01:15:05,756 INFO hovered on Birthday gifts and clicked on it 
+2021-11-20 01:15:10,209 INFO Browser has been invoked 

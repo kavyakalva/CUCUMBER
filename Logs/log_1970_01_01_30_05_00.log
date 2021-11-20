@@ -1,0 +1,171 @@
+2021-11-19 19:19:44,105 INFO stepDefinitionBDD.TC10 clicks_on_corporate_gift Clicked on Corporate Gift 
+2021-11-19 19:20:38,581 INFO stepDefinitionBDD.TC4 selects_the_gift_category clicked on Top 50 Category 
+2021-11-19 19:20:42,300 INFO stepDefinitionBDD.TC4 selects_the_gift_item Selected the Item 
+2021-11-19 19:20:42,486 INFO stepDefinitionBDD.TC4 enters_the_pincode Entered the pincode 
+2021-11-19 19:20:42,589 INFO stepDefinitionBDD.TC4 clicks_on_check_button Clicked on check 
+2021-11-19 19:57:38,047 INFO stepDefinitionBDD.TC10 clicks_on_corporate_gift Clicked on Corporate Gift 
+2021-11-19 19:59:32,540 INFO stepDefinitionBDD.TC10 clicks_on_corporate_gift Clicked on Corporate Gift 
+2021-11-19 20:02:30,353 INFO stepDefinitionBDD.TC10 clicks_on_corporate_gift Clicked on Corporate Gift 
+2021-11-19 20:04:52,990 INFO stepDefinitionBDD.TC10 clicks_on_corporate_gift Clicked on Corporate Gift 
+2021-11-19 20:07:17,021 INFO stepDefinitionBDD.TC10 clicks_on_corporate_gift Clicked on Corporate Gift 
+2021-11-19 20:14:55,696 INFO stepDefinitionBDD.TC10 clicks_on_corporate_gift Clicked on Corporate Gift 
+2021-11-19 20:16:18,679 INFO stepDefinitionBDD.TC10 clicks_on_corporate_gift Clicked on Corporate Gift 
+2021-11-19 20:18:37,490 INFO stepDefinitionBDD.TC10 clicks_on_corporate_gift Clicked on Corporate Gift 
+2021-11-19 20:21:34,292 INFO stepDefinitionBDD.TC4 selects_the_gift_category clicked on Top 50 Category 
+2021-11-19 20:21:36,784 INFO stepDefinitionBDD.TC4 selects_the_gift_item Selected the Item 
+2021-11-19 20:21:37,146 INFO stepDefinitionBDD.TC4 enters_the_pincode Entered the pincode 
+2021-11-19 20:21:37,211 INFO stepDefinitionBDD.TC4 clicks_on_check_button Clicked on check 
+2021-11-19 20:23:50,529 INFO Hovered on Birthday gifts 
+2021-11-19 20:23:54,191 INFO Hovered on 18th birthday gifts and clicked on it 
+2021-11-19 20:24:23,980 INFO New Category 
+2021-11-19 20:24:27,800 INFO Clicked on the item 
+2021-11-19 20:24:28,030 INFO increased the quantity to 2 
+2021-11-19 20:25:13,756 INFO clicked on gift card 
+2021-11-19 20:25:13,986 INFO selected the amount 
+2021-11-19 20:25:14,123 INFO added the gift card to the cart 
+2021-11-19 20:26:23,190 INFO landed on All of It page 
+2021-11-19 20:27:37,416 INFO Clicked on the Shipping & deliver Policy link 
+2021-11-19 20:27:37,641 INFO Got the heading 
+2021-11-19 20:27:37,660 INFO Heading checking done 
+2021-11-19 20:36:12,611 INFO Clicked on Corporate Gift 
+2021-11-19 20:37:08,329 INFO clicked on Top 50 Category 
+2021-11-19 20:37:12,346 INFO Selected the Item 
+2021-11-19 20:37:12,672 INFO Entered the pincode 
+2021-11-19 20:37:12,808 INFO Clicked on check 
+2021-11-19 20:37:20,703 INFO Hovered on Birthday gifts 
+2021-11-19 20:37:23,340 INFO Hovered on 18th birthday gifts and clicked on it 
+2021-11-19 20:37:37,170 INFO New Category 
+2021-11-19 20:37:40,090 INFO Clicked on the item 
+2021-11-19 20:37:40,308 INFO increased the quantity to 2 
+2021-11-19 20:37:54,434 INFO clicked on gift card 
+2021-11-19 20:37:54,747 INFO selected the amount 
+2021-11-19 20:37:54,907 INFO added the gift card to the cart 
+2021-11-19 20:38:05,378 INFO landed on All of It page 
+2021-11-19 20:38:21,390 INFO Clicked on the Shipping & deliver Policy link 
+2021-11-19 20:38:21,555 INFO Got the heading 
+2021-11-19 20:38:21,600 INFO Heading checking done 
+2021-11-19 20:40:01,334 INFO landed on All of It page 
+2021-11-19 21:43:29,187 INFO landed on All of It page 
+2021-11-19 21:50:32,984 INFO landed on All of It page 
+2021-11-19 21:52:27,132 INFO landed on All of It page 
+2021-11-19 21:53:19,497 INFO landed on All of It page 
+2021-11-19 21:53:28,170 INFO Selected the item 
+2021-11-19 21:53:28,583 INFO added to wish list 
+2021-11-19 22:03:27,348 INFO TestCase 1 
+2021-11-19 22:03:27,348 INFO Browser has been invoked 
+2021-11-19 22:03:35,271 INFO Landed on Website home page 
+2021-11-19 22:03:35,552 INFO Entered coffee mugs iin search bar 
+2021-11-19 22:03:37,872 INFO clicked on enter 
+2021-11-19 22:03:41,888 INFO Clicked on the coffee mug item 
+2021-11-19 22:03:42,093 INFO Added Coffee mug to the cart 
+2021-11-19 22:03:47,088 INFO Browser has been invoked 
+2021-11-19 22:03:53,657 INFO landed on HomePage 
+2021-11-19 22:03:56,852 INFO Clicked on Corporate Gift 
+2021-11-19 22:03:58,671 INFO Browser has been invoked 
+2021-11-19 22:04:09,689 INFO landed on HomePage 
+2021-11-19 22:04:09,691 INFO Hovered on Gifts dropdown 
+2021-11-19 22:04:10,106 INFO hovered on Birthday gifts and clicked on it 
+2021-11-19 22:04:16,192 INFO Browser has been invoked 
+2021-11-19 22:04:25,235 INFO landed on HomePage 
+2021-11-19 22:04:28,963 INFO clicked on Christmas gifts 
+2021-11-19 22:04:31,867 INFO Selected the required item 
+2021-11-19 22:04:32,117 INFO Added the Item to the cart 
+2021-11-19 22:04:37,198 INFO Added a gift note to it 
+2021-11-19 22:04:38,338 INFO Browser has been invoked 
+2021-11-19 22:04:49,122 INFO landed on HomePage 
+2021-11-19 22:04:52,604 INFO clicked on Top 50 Category 
+2021-11-19 22:04:56,455 INFO Selected the Item 
+2021-11-19 22:04:57,215 INFO Entered the pincode 
+2021-11-19 22:04:57,347 INFO Clicked on check 
+2021-11-19 22:05:03,386 INFO Browser has been invoked 
+2021-11-19 22:05:12,085 INFO landed on HomePage 
+2021-11-19 22:05:12,390 INFO Hovered on Birthday gifts 
+2021-11-19 22:05:15,443 INFO Hovered on 18th birthday gifts and clicked on it 
+2021-11-19 22:05:20,527 INFO Browser has been invoked 
+2021-11-19 22:05:26,843 INFO landed on HomePage 
+2021-11-19 22:05:29,461 INFO New Category 
+2021-11-19 22:05:32,470 INFO Clicked on the item 
+2021-11-19 22:05:32,651 INFO increased the quantity to 2 
+2021-11-19 22:05:38,663 INFO Browser has been invoked 
+2021-11-19 22:05:46,156 INFO landed on HomePage 
+2021-11-19 22:05:48,581 INFO clicked on gift card 
+2021-11-19 22:05:48,685 INFO selected the amount 
+2021-11-19 22:05:48,768 INFO added the gift card to the cart 
+2021-11-19 22:05:50,569 INFO Browser has been invoked 
+2021-11-19 22:06:02,348 INFO landed on HomePage 
+2021-11-19 22:06:02,396 INFO landed on All of It page 
+2021-11-19 22:06:08,633 INFO Selected the item 
+2021-11-19 22:06:09,010 INFO added to wish list 
+2021-11-19 22:06:11,359 INFO Browser has been invoked 
+2021-11-19 22:06:18,255 INFO landed on HomePage 
+2021-11-19 22:06:20,565 INFO Clicked on the Shipping & deliver Policy link 
+2021-11-19 22:06:20,747 INFO Got the heading 
+2021-11-19 22:06:20,748 INFO Heading checking done 
+2021-11-19 22:08:25,990 INFO TestCase 1 
+2021-11-19 22:08:25,990 INFO Browser has been invoked 
+2021-11-19 22:08:33,440 INFO Landed on Website home page 
+2021-11-19 22:08:33,776 INFO Entered coffee mugs iin search bar 
+2021-11-19 22:08:35,663 INFO clicked on enter 
+2021-11-19 22:08:38,204 INFO Clicked on the coffee mug item 
+2021-11-19 22:08:38,357 INFO Added Coffee mug to the cart 
+2021-11-19 22:08:43,588 INFO Browser has been invoked 
+2021-11-19 22:08:49,876 INFO landed on HomePage 
+2021-11-19 22:08:52,724 INFO Clicked on Corporate Gift 
+2021-11-19 22:08:54,137 INFO Browser has been invoked 
+2021-11-19 22:09:00,294 INFO landed on HomePage 
+2021-11-19 22:09:00,296 INFO Hovered on Gifts dropdown 
+2021-11-19 22:09:00,622 INFO hovered on Birthday gifts and clicked on it 
+2021-11-19 22:09:04,435 INFO Browser has been invoked 
+2021-11-19 22:09:11,768 INFO landed on HomePage 
+2021-11-19 22:09:14,138 INFO clicked on Christmas gifts 
+2021-11-19 22:09:17,073 INFO Selected the required item 
+2021-11-19 22:09:17,275 INFO Added the Item to the cart 
+2021-11-19 22:09:22,371 INFO Added a gift note to it 
+2021-11-19 22:09:28,297 INFO Browser has been invoked 
+2021-11-19 22:09:34,793 INFO landed on HomePage 
+2021-11-19 22:09:36,887 INFO clicked on Top 50 Category 
+2021-11-19 22:09:39,290 INFO Selected the Item 
+2021-11-19 22:09:39,514 INFO Entered the pincode 
+2021-11-19 22:09:39,605 INFO Clicked on check 
+2021-11-19 22:09:44,769 INFO Browser has been invoked 
+2021-11-19 22:09:50,651 INFO landed on HomePage 
+2021-11-19 22:09:50,952 INFO Hovered on Birthday gifts 
+2021-11-19 22:09:53,942 INFO Hovered on 18th birthday gifts and clicked on it 
+2021-11-19 22:09:59,258 INFO Browser has been invoked 
+2021-11-19 22:10:06,735 INFO landed on HomePage 
+2021-11-19 22:10:08,897 INFO New Category 
+2021-11-19 22:10:11,416 INFO Clicked on the item 
+2021-11-19 22:10:11,665 INFO increased the quantity to 2 
+2021-11-19 22:10:13,069 INFO Browser has been invoked 
+2021-11-19 22:10:19,550 INFO landed on HomePage 
+2021-11-19 22:10:21,541 INFO clicked on gift card 
+2021-11-19 22:10:21,852 INFO selected the amount 
+2021-11-19 22:10:21,927 INFO added the gift card to the cart 
+2021-11-19 22:10:24,025 INFO Browser has been invoked 
+2021-11-19 22:10:30,283 INFO landed on HomePage 
+2021-11-19 22:10:30,284 INFO landed on All of It page 
+2021-11-19 22:10:35,358 INFO Selected the item 
+2021-11-19 22:10:36,071 INFO added to wish list 
+2021-11-19 22:10:41,167 INFO Browser has been invoked 
+2021-11-19 22:10:46,894 INFO landed on HomePage 
+2021-11-19 22:10:49,324 INFO Clicked on the Shipping & deliver Policy link 
+2021-11-19 22:10:49,479 INFO Got the heading 
+2021-11-19 22:10:49,480 INFO Heading checking done 
+2021-11-20 01:08:01,944 INFO TestCase 1 
+2021-11-20 01:08:02,000 INFO Browser has been invoked 
+2021-11-20 01:08:08,538 INFO Landed on Website home page 
+2021-11-20 01:08:08,755 INFO Entered coffee mugs iin search bar 
+2021-11-20 01:08:11,444 INFO clicked on enter 
+2021-11-20 01:08:15,358 INFO Clicked on the coffee mug item 
+2021-11-20 01:08:15,587 INFO Added Coffee mug to the cart 
+2021-11-20 01:08:22,377 INFO Browser has been invoked 
+2021-11-20 01:08:28,923 INFO landed on HomePage 
+2021-11-20 01:08:31,247 INFO Clicked on Corporate Gift 
+2021-11-20 01:08:33,842 INFO Browser has been invoked 
+2021-11-20 01:08:43,445 INFO landed on HomePage 
+2021-11-20 01:08:43,446 INFO Hovered on Gifts dropdown 
+2021-11-20 01:08:43,806 INFO hovered on Birthday gifts and clicked on it 
+2021-11-20 01:08:48,360 INFO Browser has been invoked 
+2021-11-20 01:08:55,203 INFO landed on HomePage 
+2021-11-20 01:08:57,508 INFO clicked on Christmas gifts 
+2021-11-20 01:09:00,925 INFO Selected the required item 
